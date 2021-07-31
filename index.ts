@@ -1,2 +1,2 @@
-console.log("Hello Typscript")
+console.log("Hello Typescript")
 
