@@ -1,4 +1,4 @@
-# Typescript Playground
+# TypeScript Playground
 
 ## Task 1
 
@@ -14,7 +14,7 @@ To serve the website run the command `parcel index.html` from the project folder
 
 ## Task 3
 
-Experiment with Typescript!
+Experiment with TypeScript!
 
 Have a go at doing the following things:
 
