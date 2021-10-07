@@ -4,7 +4,9 @@
 
 Experiment with TypeScript!
 
-Work through the [basic tutorial on the TypeScript docs here](https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html). You can also look through this [five minute article](https://medium.com/free-code-camp/learn-typescript-in-5-minutes-13eda868daeb).
+You can read the basics of transitioning from regular JS to TypeScript [here](https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html).
+
+Then work through the [basic tutorial on the TypeScript docs here](https://www.typescriptlang.org/docs/handbook/typescript-tooling-in-5-minutes.html). You can also look through this [five minute article](https://medium.com/free-code-camp/learn-typescript-in-5-minutes-13eda868daeb).
 
 Then navigate to the [TypeScript Playground](https://www.typescriptlang.org/play) and have a go at doing the following things:
 
