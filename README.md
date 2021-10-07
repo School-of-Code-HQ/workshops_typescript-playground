@@ -6,7 +6,7 @@ To bundle and serve the website, globally install parcel on your computer by run
 
 `npm install -g parcel-bundler`
 
-Mac users may have to add `sudo` to the start of the command, and type their password to get permission to install the module. More information about parcel can be found here: https://parceljs.org/getting_started.html
+Mac users may have to add `sudo` to the start of the command, and type their password to get permission to install the module. More information about parcel can be found here: https://parceljs.org/getting_started.html.
 
 ## Task 2
 
